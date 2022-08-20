@@ -20,7 +20,7 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 Math test
 
-$$ E = mc^2 $$
+\[E = mc^2\]
 
 **New: version `0.4.0.rc1` has just been released! See [the changelog](https://github.com/just-the-docs/just-the-docs/blob/main/CHANGELOG.md) for a detailed breakdown!**
 
